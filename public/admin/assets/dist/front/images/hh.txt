@@ -1,0 +1,1 @@
+https://www.tychesoftwares.com/woocommerce-shop-page-hooks-visual-guide-with-code-snippets/#:~:text=3.-,woocommerce_before_shop_loop,called%20'New%20%26%20Trending'.
